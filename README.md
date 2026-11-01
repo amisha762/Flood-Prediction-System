@@ -1,5 +1,12 @@
-# 🌊 AI-Based Flood Detection and Probability Prediction System
-### *For Punjab, Haryana, Madhya Pradesh, and Bihar*
+AI-Based Flood Detection and Probability Prediction System
+
+🌐 Live Demo
+
+Click Here to Open Flood Prediction Dashboard
+
+Project Repository
+
+This project uses Machine Learning to predict flood probability across Punjab, Haryana, Madhya Pradesh, and Bihar.
 **Final-Year B.Tech Major Project in Artificial Intelligence & Data Science**
 
 ---
