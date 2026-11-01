@@ -1,9 +1,8 @@
 AI-Based Flood Detection and Probability Prediction System
 
-🌐 Live Demo
+## 🌐 Live Demo
 
-Click Here to Open Flood Prediction Dashboard
-
+[**Click Here to Open Flood Prediction Dashboard**](https://flood-prediction-system-amisha.streamlit.app)
 Project Repository
 
 This project uses Machine Learning to predict flood probability across Punjab, Haryana, Madhya Pradesh, and Bihar.
